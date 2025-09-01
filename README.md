@@ -5,7 +5,7 @@
 
 - 🌱 I specialize in **Tools Scripting and Procedural Technical, with developing skills in AI, Gameplay Programming, Graphics Programming, and Technical Design to enhance game development processes.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shreya-dutta-dev-portfolio.lovable.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://preview--shreya-dutta-dev-portfolio.lovable.app/)
 
 - 💬 Ask me about **Unreal, Unity, React, Node.js.**
 
